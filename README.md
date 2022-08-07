@@ -29,7 +29,7 @@ $ npm install --save vue3-solid
 
 [demo](https://github.com/scenaristeur/vue3-solid-demo)
 
-[doc](https://github.com/scenaristeur/vue3-solid-doc)
+[doc](https://scenaristeur.github.io/vue3-solid/)
 
 [source](https://github.com/scenaristeur/vue3-solid)
 
