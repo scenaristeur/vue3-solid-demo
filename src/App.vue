@@ -1,5 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
+  <InputText />
+  <InputTextarea />
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
